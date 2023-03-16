@@ -14,7 +14,7 @@ This repository contains the code for the following paper.
 </p>
 
 <p align="center">
-<img src="output/shap.png" width="500px"/>
+<img src="output/shap_plot.png" width="500px"/>
 </p>
 
 
