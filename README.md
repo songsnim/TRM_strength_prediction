@@ -3,6 +3,7 @@
 This repository contains the code for the following paper.
 ### Published paper
 **Title**: "Analysis of load-bearing capacity factors of textile-reinforced mortar using multilayer perceptron and explainable artificial intelligence"
+
 **Author**: Youngjae Song, Kwangsu Kim, Seunghee Park, Sun-Kyu Park, Jongho Park
 
 ### Abstract
