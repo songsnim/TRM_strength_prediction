@@ -1,6 +1,6 @@
 # TRM_strength_prediction
 
-This repository contains the code for the following paper.
+This repository contains the code(not providing dataset) for the following paper.
 ### Published paper
 **Title**: "Analysis of load-bearing capacity factors of textile-reinforced mortar using multilayer perceptron and explainable artificial intelligence"
 

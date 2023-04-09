@@ -3,9 +3,6 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from sklearn.metrics import r2_score
 
-import captum
-import shap
-
 import torch
 import torch.nn as nn
 from tkinter import *
@@ -64,7 +61,7 @@ if __name__ == '__main__':
                 'C', 'PBO', 'G', 'CF', 'B', 'ff', 'Af', 'layer', 'Swr', 'Swf','Anc']
     
     mlp = mlp_model().to("cpu")
-    final_model = torch.load('best_model_GUI.pt', map_location='cpu')
+    final_model = torch.load('pretrained_models/best_model_GUI.pt', map_location='cpu')
     feat_width = 5
     
     # 프레임 생성
