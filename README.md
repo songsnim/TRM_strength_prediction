@@ -22,4 +22,16 @@ This repository contains the code(not providing dataset) for the following paper
 <img src="output/shap_plot.png" width="500px"/>
 </p>
 
+### GUI.py usage
+<p align="center">
+<img src="output/제원설명.png" width="500px"/>
+</p>
+<p align="center">
+<img src="output/.png" width="500px"/>
+</p>
+
+
+
+
+
 
