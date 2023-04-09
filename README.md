@@ -24,10 +24,10 @@ This repository contains the code(not providing dataset) for the following paper
 
 ### GUI.py usage
 <p align="center">
-<img src="output/제원설명.png" width="500px"/>
+<img src="output/제원설명.jpeg" width="500px"/>
 </p>
 <p align="center">
-<img src="output/사용장면.png" width="500px"/>
+<img src="output/사용장면.jpeg" width="500px"/>
 </p>
 
 
