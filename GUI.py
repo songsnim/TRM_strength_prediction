@@ -8,7 +8,6 @@ import torch.nn as nn
 from tkinter import *
 from config import *
 
-
 def weight_init_xavier_uniform(submodule):
     if isinstance(submodule, torch.nn.Conv2d):
         torch.nn.init.xavier_uniform_(submodule.weight)
