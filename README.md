@@ -27,7 +27,7 @@ This repository contains the code(not providing dataset) for the following paper
 <img src="output/제원설명.png" width="500px"/>
 </p>
 <p align="center">
-<img src="output/.png" width="500px"/>
+<img src="output/사용장면.png" width="500px"/>
 </p>
 
 
